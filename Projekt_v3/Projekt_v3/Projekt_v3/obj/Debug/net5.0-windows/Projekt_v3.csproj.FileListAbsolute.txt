@@ -1,0 +1,151 @@
+C:\Users\Kuba\Desktop\Integracja\Projekt_v3\Projekt_v3\obj\Debug\net5.0-windows\Projekt_v3.csproj.AssemblyReference.cache
+C:\Users\Kuba\Desktop\Integracja\Projekt_v3\Projekt_v3\obj\Debug\net5.0-windows\Projekt_v3.Form1.resources
+C:\Users\Kuba\Desktop\Integracja\Projekt_v3\Projekt_v3\obj\Debug\net5.0-windows\Projekt_v3.csproj.GenerateResource.cache
+C:\Users\Kuba\Desktop\Integracja\Projekt_v3\Projekt_v3\obj\Debug\net5.0-windows\Projekt_v3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kuba\Desktop\Integracja\Projekt_v3\Projekt_v3\obj\Debug\net5.0-windows\Projekt_v3.AssemblyInfoInputs.cache
+C:\Users\Kuba\Desktop\Integracja\Projekt_v3\Projekt_v3\obj\Debug\net5.0-windows\Projekt_v3.AssemblyInfo.cs
+C:\Users\Kuba\Desktop\Integracja\Projekt_v3\Projekt_v3\obj\Debug\net5.0-windows\Projekt_v3.csproj.CoreCompileInputs.cache
+C:\Users\Kuba\Desktop\Integracja\Projekt_v3\Projekt_v3\bin\Debug\net5.0-windows\Projekt_v3.exe
+C:\Users\Kuba\Desktop\Integracja\Projekt_v3\Projekt_v3\bin\Debug\net5.0-windows\assets\baza.xml
+C:\Users\Kuba\Desktop\Integracja\Projekt_v3\Projekt_v3\bin\Debug\net5.0-windows\assets\baza1.csv
+C:\Users\Kuba\Desktop\Integracja\Projekt_v3\Projekt_v3\bin\Debug\net5.0-windows\assets\baza2.csv
+C:\Users\Kuba\Desktop\Integracja\Projekt_v3\Projekt_v3\bin\Debug\net5.0-windows\assets\json.json
+C:\Users\Kuba\Desktop\Integracja\Projekt_v3\Projekt_v3\bin\Debug\net5.0-windows\Projekt_v3.deps.json
+C:\Users\Kuba\Desktop\Integracja\Projekt_v3\Projekt_v3\bin\Debug\net5.0-windows\Projekt_v3.runtimeconfig.json
+C:\Users\Kuba\Desktop\Integracja\Projekt_v3\Projekt_v3\bin\Debug\net5.0-windows\Projekt_v3.runtimeconfig.dev.json
+C:\Users\Kuba\Desktop\Integracja\Projekt_v3\Projekt_v3\bin\Debug\net5.0-windows\Projekt_v3.dll
+C:\Users\Kuba\Desktop\Integracja\Projekt_v3\Projekt_v3\bin\Debug\net5.0-windows\ref\Projekt_v3.dll
+C:\Users\Kuba\Desktop\Integracja\Projekt_v3\Projekt_v3\bin\Debug\net5.0-windows\Projekt_v3.pdb
+C:\Users\Kuba\Desktop\Integracja\Projekt_v3\Projekt_v3\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+C:\Users\Kuba\Desktop\Integracja\Projekt_v3\Projekt_v3\bin\Debug\net5.0-windows\Google.Protobuf.dll
+C:\Users\Kuba\Desktop\Integracja\Projekt_v3\Projekt_v3\bin\Debug\net5.0-windows\K4os.Compression.LZ4.dll
+C:\Users\Kuba\Desktop\Integracja\Projekt_v3\Projekt_v3\bin\Debug\net5.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\Kuba\Desktop\Integracja\Projekt_v3\Projekt_v3\bin\Debug\net5.0-windows\K4os.Hash.xxHash.dll
+C:\Users\Kuba\Desktop\Integracja\Projekt_v3\Projekt_v3\bin\Debug\net5.0-windows\MySql.Data.dll
+C:\Users\Kuba\Desktop\Integracja\Projekt_v3\Projekt_v3\bin\Debug\net5.0-windows\Ubiety.Dns.Core.dll
+C:\Users\Kuba\Desktop\Integracja\Projekt_v3\Projekt_v3\bin\Debug\net5.0-windows\ZstdNet.dll
+C:\Users\Kuba\Desktop\Integracja\Projekt_v3\Projekt_v3\obj\Debug\net5.0-windows\Projekt_v3.csproj.CopyComplete
+C:\Users\Kuba\Desktop\Integracja\Projekt_v3\Projekt_v3\obj\Debug\net5.0-windows\Projekt_v3.dll
+C:\Users\Kuba\Desktop\Integracja\Projekt_v3\Projekt_v3\obj\Debug\net5.0-windows\ref\Projekt_v3.dll
+C:\Users\Kuba\Desktop\Integracja\Projekt_v3\Projekt_v3\obj\Debug\net5.0-windows\Projekt_v3.pdb
+C:\Users\Kuba\Desktop\Integracja\Projekt_v3\Projekt_v3\obj\Debug\net5.0-windows\Projekt_v3.genruntimeconfig.cache
+C:\Users\Eliza\Downloads\Projekt_v3 (1)\Projekt_v3\Projekt_v3\bin\Debug\net5.0-windows\Projekt_v3.exe
+C:\Users\Eliza\Downloads\Projekt_v3 (1)\Projekt_v3\Projekt_v3\bin\Debug\net5.0-windows\assets\baza.xml
+C:\Users\Eliza\Downloads\Projekt_v3 (1)\Projekt_v3\Projekt_v3\bin\Debug\net5.0-windows\assets\baza1.csv
+C:\Users\Eliza\Downloads\Projekt_v3 (1)\Projekt_v3\Projekt_v3\bin\Debug\net5.0-windows\assets\baza2.csv
+C:\Users\Eliza\Downloads\Projekt_v3 (1)\Projekt_v3\Projekt_v3\bin\Debug\net5.0-windows\assets\json.json
+C:\Users\Eliza\Downloads\Projekt_v3 (1)\Projekt_v3\Projekt_v3\bin\Debug\net5.0-windows\Projekt_v3.deps.json
+C:\Users\Eliza\Downloads\Projekt_v3 (1)\Projekt_v3\Projekt_v3\bin\Debug\net5.0-windows\Projekt_v3.runtimeconfig.json
+C:\Users\Eliza\Downloads\Projekt_v3 (1)\Projekt_v3\Projekt_v3\bin\Debug\net5.0-windows\Projekt_v3.runtimeconfig.dev.json
+C:\Users\Eliza\Downloads\Projekt_v3 (1)\Projekt_v3\Projekt_v3\bin\Debug\net5.0-windows\Projekt_v3.dll
+C:\Users\Eliza\Downloads\Projekt_v3 (1)\Projekt_v3\Projekt_v3\bin\Debug\net5.0-windows\ref\Projekt_v3.dll
+C:\Users\Eliza\Downloads\Projekt_v3 (1)\Projekt_v3\Projekt_v3\bin\Debug\net5.0-windows\Projekt_v3.pdb
+C:\Users\Eliza\Downloads\Projekt_v3 (1)\Projekt_v3\Projekt_v3\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+C:\Users\Eliza\Downloads\Projekt_v3 (1)\Projekt_v3\Projekt_v3\bin\Debug\net5.0-windows\Google.Protobuf.dll
+C:\Users\Eliza\Downloads\Projekt_v3 (1)\Projekt_v3\Projekt_v3\bin\Debug\net5.0-windows\K4os.Compression.LZ4.dll
+C:\Users\Eliza\Downloads\Projekt_v3 (1)\Projekt_v3\Projekt_v3\bin\Debug\net5.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\Eliza\Downloads\Projekt_v3 (1)\Projekt_v3\Projekt_v3\bin\Debug\net5.0-windows\K4os.Hash.xxHash.dll
+C:\Users\Eliza\Downloads\Projekt_v3 (1)\Projekt_v3\Projekt_v3\bin\Debug\net5.0-windows\MySql.Data.dll
+C:\Users\Eliza\Downloads\Projekt_v3 (1)\Projekt_v3\Projekt_v3\bin\Debug\net5.0-windows\Ubiety.Dns.Core.dll
+C:\Users\Eliza\Downloads\Projekt_v3 (1)\Projekt_v3\Projekt_v3\bin\Debug\net5.0-windows\ZstdNet.dll
+C:\Users\Eliza\Downloads\Projekt_v3 (1)\Projekt_v3\Projekt_v3\obj\Debug\net5.0-windows\Projekt_v3.csproj.AssemblyReference.cache
+C:\Users\Eliza\Downloads\Projekt_v3 (1)\Projekt_v3\Projekt_v3\obj\Debug\net5.0-windows\Projekt_v3.csproj.GenerateResource.cache
+C:\Users\Eliza\Downloads\Projekt_v3 (1)\Projekt_v3\Projekt_v3\obj\Debug\net5.0-windows\Projekt_v3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eliza\Downloads\Projekt_v3 (1)\Projekt_v3\Projekt_v3\obj\Debug\net5.0-windows\Projekt_v3.AssemblyInfoInputs.cache
+C:\Users\Eliza\Downloads\Projekt_v3 (1)\Projekt_v3\Projekt_v3\obj\Debug\net5.0-windows\Projekt_v3.AssemblyInfo.cs
+C:\Users\Eliza\Downloads\Projekt_v3 (1)\Projekt_v3\Projekt_v3\obj\Debug\net5.0-windows\Projekt_v3.csproj.CoreCompileInputs.cache
+C:\Users\Eliza\Downloads\Projekt_v3 (1)\Projekt_v3\Projekt_v3\obj\Debug\net5.0-windows\Projekt_v3.dll
+C:\Users\Eliza\Downloads\Projekt_v3 (1)\Projekt_v3\Projekt_v3\obj\Debug\net5.0-windows\ref\Projekt_v3.dll
+C:\Users\Eliza\Downloads\Projekt_v3 (1)\Projekt_v3\Projekt_v3\obj\Debug\net5.0-windows\Projekt_v3.pdb
+C:\Users\Eliza\Downloads\Projekt_v3 (1)\Projekt_v3\Projekt_v3\obj\Debug\net5.0-windows\Projekt_v3.genruntimeconfig.cache
+C:\Users\Eliza\Downloads\Projekt_v3 (1)\Projekt_v3\Projekt_v3\obj\Debug\net5.0-windows\Projekt_v3.Form1.resources
+C:\Users\Eliza\Desktop\Projekt_v3 (1)\Projekt_v3 (1)\Projekt_v3\Projekt_v3\bin\Debug\net5.0-windows\Projekt_v3.exe
+C:\Users\Eliza\Desktop\Projekt_v3 (1)\Projekt_v3 (1)\Projekt_v3\Projekt_v3\bin\Debug\net5.0-windows\assets\baza.xml
+C:\Users\Eliza\Desktop\Projekt_v3 (1)\Projekt_v3 (1)\Projekt_v3\Projekt_v3\bin\Debug\net5.0-windows\assets\baza1.csv
+C:\Users\Eliza\Desktop\Projekt_v3 (1)\Projekt_v3 (1)\Projekt_v3\Projekt_v3\bin\Debug\net5.0-windows\assets\baza2.csv
+C:\Users\Eliza\Desktop\Projekt_v3 (1)\Projekt_v3 (1)\Projekt_v3\Projekt_v3\bin\Debug\net5.0-windows\assets\json.json
+C:\Users\Eliza\Desktop\Projekt_v3 (1)\Projekt_v3 (1)\Projekt_v3\Projekt_v3\bin\Debug\net5.0-windows\Projekt_v3.deps.json
+C:\Users\Eliza\Desktop\Projekt_v3 (1)\Projekt_v3 (1)\Projekt_v3\Projekt_v3\bin\Debug\net5.0-windows\Projekt_v3.runtimeconfig.json
+C:\Users\Eliza\Desktop\Projekt_v3 (1)\Projekt_v3 (1)\Projekt_v3\Projekt_v3\bin\Debug\net5.0-windows\Projekt_v3.runtimeconfig.dev.json
+C:\Users\Eliza\Desktop\Projekt_v3 (1)\Projekt_v3 (1)\Projekt_v3\Projekt_v3\bin\Debug\net5.0-windows\Projekt_v3.dll
+C:\Users\Eliza\Desktop\Projekt_v3 (1)\Projekt_v3 (1)\Projekt_v3\Projekt_v3\bin\Debug\net5.0-windows\ref\Projekt_v3.dll
+C:\Users\Eliza\Desktop\Projekt_v3 (1)\Projekt_v3 (1)\Projekt_v3\Projekt_v3\bin\Debug\net5.0-windows\Projekt_v3.pdb
+C:\Users\Eliza\Desktop\Projekt_v3 (1)\Projekt_v3 (1)\Projekt_v3\Projekt_v3\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+C:\Users\Eliza\Desktop\Projekt_v3 (1)\Projekt_v3 (1)\Projekt_v3\Projekt_v3\bin\Debug\net5.0-windows\Google.Protobuf.dll
+C:\Users\Eliza\Desktop\Projekt_v3 (1)\Projekt_v3 (1)\Projekt_v3\Projekt_v3\bin\Debug\net5.0-windows\K4os.Compression.LZ4.dll
+C:\Users\Eliza\Desktop\Projekt_v3 (1)\Projekt_v3 (1)\Projekt_v3\Projekt_v3\bin\Debug\net5.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\Eliza\Desktop\Projekt_v3 (1)\Projekt_v3 (1)\Projekt_v3\Projekt_v3\bin\Debug\net5.0-windows\K4os.Hash.xxHash.dll
+C:\Users\Eliza\Desktop\Projekt_v3 (1)\Projekt_v3 (1)\Projekt_v3\Projekt_v3\bin\Debug\net5.0-windows\MySql.Data.dll
+C:\Users\Eliza\Desktop\Projekt_v3 (1)\Projekt_v3 (1)\Projekt_v3\Projekt_v3\bin\Debug\net5.0-windows\Ubiety.Dns.Core.dll
+C:\Users\Eliza\Desktop\Projekt_v3 (1)\Projekt_v3 (1)\Projekt_v3\Projekt_v3\bin\Debug\net5.0-windows\ZstdNet.dll
+C:\Users\Eliza\Desktop\Projekt_v3 (1)\Projekt_v3 (1)\Projekt_v3\Projekt_v3\obj\Debug\net5.0-windows\Projekt_v3.csproj.AssemblyReference.cache
+C:\Users\Eliza\Desktop\Projekt_v3 (1)\Projekt_v3 (1)\Projekt_v3\Projekt_v3\obj\Debug\net5.0-windows\Projekt_v3.Form1.resources
+C:\Users\Eliza\Desktop\Projekt_v3 (1)\Projekt_v3 (1)\Projekt_v3\Projekt_v3\obj\Debug\net5.0-windows\Projekt_v3.csproj.GenerateResource.cache
+C:\Users\Eliza\Desktop\Projekt_v3 (1)\Projekt_v3 (1)\Projekt_v3\Projekt_v3\obj\Debug\net5.0-windows\Projekt_v3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eliza\Desktop\Projekt_v3 (1)\Projekt_v3 (1)\Projekt_v3\Projekt_v3\obj\Debug\net5.0-windows\Projekt_v3.AssemblyInfoInputs.cache
+C:\Users\Eliza\Desktop\Projekt_v3 (1)\Projekt_v3 (1)\Projekt_v3\Projekt_v3\obj\Debug\net5.0-windows\Projekt_v3.AssemblyInfo.cs
+C:\Users\Eliza\Desktop\Projekt_v3 (1)\Projekt_v3 (1)\Projekt_v3\Projekt_v3\obj\Debug\net5.0-windows\Projekt_v3.csproj.CoreCompileInputs.cache
+C:\Users\Eliza\Desktop\Projekt_v3 (1)\Projekt_v3 (1)\Projekt_v3\Projekt_v3\obj\Debug\net5.0-windows\Projekt_v3.dll
+C:\Users\Eliza\Desktop\Projekt_v3 (1)\Projekt_v3 (1)\Projekt_v3\Projekt_v3\obj\Debug\net5.0-windows\ref\Projekt_v3.dll
+C:\Users\Eliza\Desktop\Projekt_v3 (1)\Projekt_v3 (1)\Projekt_v3\Projekt_v3\obj\Debug\net5.0-windows\Projekt_v3.pdb
+C:\Users\Eliza\Desktop\Projekt_v3 (1)\Projekt_v3 (1)\Projekt_v3\Projekt_v3\obj\Debug\net5.0-windows\Projekt_v3.genruntimeconfig.cache
+C:\Users\Eliza\Desktop\Projekt_v3 28.12\Projekt_v3 (1)\Projekt_v3\Projekt_v3\bin\Debug\net5.0-windows\Projekt_v3.exe
+C:\Users\Eliza\Desktop\Projekt_v3 28.12\Projekt_v3 (1)\Projekt_v3\Projekt_v3\bin\Debug\net5.0-windows\assets\baza.xml
+C:\Users\Eliza\Desktop\Projekt_v3 28.12\Projekt_v3 (1)\Projekt_v3\Projekt_v3\bin\Debug\net5.0-windows\assets\baza1.csv
+C:\Users\Eliza\Desktop\Projekt_v3 28.12\Projekt_v3 (1)\Projekt_v3\Projekt_v3\bin\Debug\net5.0-windows\assets\baza2.csv
+C:\Users\Eliza\Desktop\Projekt_v3 28.12\Projekt_v3 (1)\Projekt_v3\Projekt_v3\bin\Debug\net5.0-windows\assets\json.json
+C:\Users\Eliza\Desktop\Projekt_v3 28.12\Projekt_v3 (1)\Projekt_v3\Projekt_v3\bin\Debug\net5.0-windows\Projekt_v3.deps.json
+C:\Users\Eliza\Desktop\Projekt_v3 28.12\Projekt_v3 (1)\Projekt_v3\Projekt_v3\bin\Debug\net5.0-windows\Projekt_v3.runtimeconfig.json
+C:\Users\Eliza\Desktop\Projekt_v3 28.12\Projekt_v3 (1)\Projekt_v3\Projekt_v3\bin\Debug\net5.0-windows\Projekt_v3.runtimeconfig.dev.json
+C:\Users\Eliza\Desktop\Projekt_v3 28.12\Projekt_v3 (1)\Projekt_v3\Projekt_v3\bin\Debug\net5.0-windows\Projekt_v3.dll
+C:\Users\Eliza\Desktop\Projekt_v3 28.12\Projekt_v3 (1)\Projekt_v3\Projekt_v3\bin\Debug\net5.0-windows\ref\Projekt_v3.dll
+C:\Users\Eliza\Desktop\Projekt_v3 28.12\Projekt_v3 (1)\Projekt_v3\Projekt_v3\bin\Debug\net5.0-windows\Projekt_v3.pdb
+C:\Users\Eliza\Desktop\Projekt_v3 28.12\Projekt_v3 (1)\Projekt_v3\Projekt_v3\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+C:\Users\Eliza\Desktop\Projekt_v3 28.12\Projekt_v3 (1)\Projekt_v3\Projekt_v3\bin\Debug\net5.0-windows\Google.Protobuf.dll
+C:\Users\Eliza\Desktop\Projekt_v3 28.12\Projekt_v3 (1)\Projekt_v3\Projekt_v3\bin\Debug\net5.0-windows\K4os.Compression.LZ4.dll
+C:\Users\Eliza\Desktop\Projekt_v3 28.12\Projekt_v3 (1)\Projekt_v3\Projekt_v3\bin\Debug\net5.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\Eliza\Desktop\Projekt_v3 28.12\Projekt_v3 (1)\Projekt_v3\Projekt_v3\bin\Debug\net5.0-windows\K4os.Hash.xxHash.dll
+C:\Users\Eliza\Desktop\Projekt_v3 28.12\Projekt_v3 (1)\Projekt_v3\Projekt_v3\bin\Debug\net5.0-windows\MySql.Data.dll
+C:\Users\Eliza\Desktop\Projekt_v3 28.12\Projekt_v3 (1)\Projekt_v3\Projekt_v3\bin\Debug\net5.0-windows\Ubiety.Dns.Core.dll
+C:\Users\Eliza\Desktop\Projekt_v3 28.12\Projekt_v3 (1)\Projekt_v3\Projekt_v3\bin\Debug\net5.0-windows\ZstdNet.dll
+C:\Users\Eliza\Desktop\Projekt_v3 28.12\Projekt_v3 (1)\Projekt_v3\Projekt_v3\obj\Debug\net5.0-windows\Projekt_v3.csproj.AssemblyReference.cache
+C:\Users\Eliza\Desktop\Projekt_v3 28.12\Projekt_v3 (1)\Projekt_v3\Projekt_v3\obj\Debug\net5.0-windows\Projekt_v3.Form1.resources
+C:\Users\Eliza\Desktop\Projekt_v3 28.12\Projekt_v3 (1)\Projekt_v3\Projekt_v3\obj\Debug\net5.0-windows\Projekt_v3.csproj.GenerateResource.cache
+C:\Users\Eliza\Desktop\Projekt_v3 28.12\Projekt_v3 (1)\Projekt_v3\Projekt_v3\obj\Debug\net5.0-windows\Projekt_v3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eliza\Desktop\Projekt_v3 28.12\Projekt_v3 (1)\Projekt_v3\Projekt_v3\obj\Debug\net5.0-windows\Projekt_v3.AssemblyInfoInputs.cache
+C:\Users\Eliza\Desktop\Projekt_v3 28.12\Projekt_v3 (1)\Projekt_v3\Projekt_v3\obj\Debug\net5.0-windows\Projekt_v3.AssemblyInfo.cs
+C:\Users\Eliza\Desktop\Projekt_v3 28.12\Projekt_v3 (1)\Projekt_v3\Projekt_v3\obj\Debug\net5.0-windows\Projekt_v3.csproj.CoreCompileInputs.cache
+C:\Users\Eliza\Desktop\Projekt_v3 28.12\Projekt_v3 (1)\Projekt_v3\Projekt_v3\obj\Debug\net5.0-windows\Projekt_v3.dll
+C:\Users\Eliza\Desktop\Projekt_v3 28.12\Projekt_v3 (1)\Projekt_v3\Projekt_v3\obj\Debug\net5.0-windows\ref\Projekt_v3.dll
+C:\Users\Eliza\Desktop\Projekt_v3 28.12\Projekt_v3 (1)\Projekt_v3\Projekt_v3\obj\Debug\net5.0-windows\Projekt_v3.pdb
+C:\Users\Eliza\Desktop\Projekt_v3 28.12\Projekt_v3 (1)\Projekt_v3\Projekt_v3\obj\Debug\net5.0-windows\Projekt_v3.genruntimeconfig.cache
+C:\Users\Kuba\Desktop\Integracja\Projekt_v3 28.12\Projekt_v3 (1)\Projekt_v3\Projekt_v3\bin\Debug\net5.0-windows\Projekt_v3.exe
+C:\Users\Kuba\Desktop\Integracja\Projekt_v3 28.12\Projekt_v3 (1)\Projekt_v3\Projekt_v3\bin\Debug\net5.0-windows\assets\baza.xml
+C:\Users\Kuba\Desktop\Integracja\Projekt_v3 28.12\Projekt_v3 (1)\Projekt_v3\Projekt_v3\bin\Debug\net5.0-windows\assets\baza1.csv
+C:\Users\Kuba\Desktop\Integracja\Projekt_v3 28.12\Projekt_v3 (1)\Projekt_v3\Projekt_v3\bin\Debug\net5.0-windows\assets\baza2.csv
+C:\Users\Kuba\Desktop\Integracja\Projekt_v3 28.12\Projekt_v3 (1)\Projekt_v3\Projekt_v3\bin\Debug\net5.0-windows\assets\json.json
+C:\Users\Kuba\Desktop\Integracja\Projekt_v3 28.12\Projekt_v3 (1)\Projekt_v3\Projekt_v3\bin\Debug\net5.0-windows\Projekt_v3.deps.json
+C:\Users\Kuba\Desktop\Integracja\Projekt_v3 28.12\Projekt_v3 (1)\Projekt_v3\Projekt_v3\bin\Debug\net5.0-windows\Projekt_v3.runtimeconfig.json
+C:\Users\Kuba\Desktop\Integracja\Projekt_v3 28.12\Projekt_v3 (1)\Projekt_v3\Projekt_v3\bin\Debug\net5.0-windows\Projekt_v3.runtimeconfig.dev.json
+C:\Users\Kuba\Desktop\Integracja\Projekt_v3 28.12\Projekt_v3 (1)\Projekt_v3\Projekt_v3\bin\Debug\net5.0-windows\Projekt_v3.dll
+C:\Users\Kuba\Desktop\Integracja\Projekt_v3 28.12\Projekt_v3 (1)\Projekt_v3\Projekt_v3\bin\Debug\net5.0-windows\ref\Projekt_v3.dll
+C:\Users\Kuba\Desktop\Integracja\Projekt_v3 28.12\Projekt_v3 (1)\Projekt_v3\Projekt_v3\bin\Debug\net5.0-windows\Projekt_v3.pdb
+C:\Users\Kuba\Desktop\Integracja\Projekt_v3 28.12\Projekt_v3 (1)\Projekt_v3\Projekt_v3\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+C:\Users\Kuba\Desktop\Integracja\Projekt_v3 28.12\Projekt_v3 (1)\Projekt_v3\Projekt_v3\bin\Debug\net5.0-windows\Google.Protobuf.dll
+C:\Users\Kuba\Desktop\Integracja\Projekt_v3 28.12\Projekt_v3 (1)\Projekt_v3\Projekt_v3\bin\Debug\net5.0-windows\K4os.Compression.LZ4.dll
+C:\Users\Kuba\Desktop\Integracja\Projekt_v3 28.12\Projekt_v3 (1)\Projekt_v3\Projekt_v3\bin\Debug\net5.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\Kuba\Desktop\Integracja\Projekt_v3 28.12\Projekt_v3 (1)\Projekt_v3\Projekt_v3\bin\Debug\net5.0-windows\K4os.Hash.xxHash.dll
+C:\Users\Kuba\Desktop\Integracja\Projekt_v3 28.12\Projekt_v3 (1)\Projekt_v3\Projekt_v3\bin\Debug\net5.0-windows\MySql.Data.dll
+C:\Users\Kuba\Desktop\Integracja\Projekt_v3 28.12\Projekt_v3 (1)\Projekt_v3\Projekt_v3\bin\Debug\net5.0-windows\Ubiety.Dns.Core.dll
+C:\Users\Kuba\Desktop\Integracja\Projekt_v3 28.12\Projekt_v3 (1)\Projekt_v3\Projekt_v3\bin\Debug\net5.0-windows\ZstdNet.dll
+C:\Users\Kuba\Desktop\Integracja\Projekt_v3 28.12\Projekt_v3 (1)\Projekt_v3\Projekt_v3\obj\Debug\net5.0-windows\Projekt_v3.csproj.AssemblyReference.cache
+C:\Users\Kuba\Desktop\Integracja\Projekt_v3 28.12\Projekt_v3 (1)\Projekt_v3\Projekt_v3\obj\Debug\net5.0-windows\Projekt_v3.Form1.resources
+C:\Users\Kuba\Desktop\Integracja\Projekt_v3 28.12\Projekt_v3 (1)\Projekt_v3\Projekt_v3\obj\Debug\net5.0-windows\Projekt_v3.csproj.GenerateResource.cache
+C:\Users\Kuba\Desktop\Integracja\Projekt_v3 28.12\Projekt_v3 (1)\Projekt_v3\Projekt_v3\obj\Debug\net5.0-windows\Projekt_v3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kuba\Desktop\Integracja\Projekt_v3 28.12\Projekt_v3 (1)\Projekt_v3\Projekt_v3\obj\Debug\net5.0-windows\Projekt_v3.AssemblyInfoInputs.cache
+C:\Users\Kuba\Desktop\Integracja\Projekt_v3 28.12\Projekt_v3 (1)\Projekt_v3\Projekt_v3\obj\Debug\net5.0-windows\Projekt_v3.AssemblyInfo.cs
+C:\Users\Kuba\Desktop\Integracja\Projekt_v3 28.12\Projekt_v3 (1)\Projekt_v3\Projekt_v3\obj\Debug\net5.0-windows\Projekt_v3.csproj.CoreCompileInputs.cache
+C:\Users\Kuba\Desktop\Integracja\Projekt_v3 28.12\Projekt_v3 (1)\Projekt_v3\Projekt_v3\obj\Debug\net5.0-windows\Projekt_v3.dll
+C:\Users\Kuba\Desktop\Integracja\Projekt_v3 28.12\Projekt_v3 (1)\Projekt_v3\Projekt_v3\obj\Debug\net5.0-windows\ref\Projekt_v3.dll
+C:\Users\Kuba\Desktop\Integracja\Projekt_v3 28.12\Projekt_v3 (1)\Projekt_v3\Projekt_v3\obj\Debug\net5.0-windows\Projekt_v3.pdb
+C:\Users\Kuba\Desktop\Integracja\Projekt_v3 28.12\Projekt_v3 (1)\Projekt_v3\Projekt_v3\obj\Debug\net5.0-windows\Projekt_v3.genruntimeconfig.cache
